@@ -19,3 +19,7 @@ A modern web application that displays COVID-19 statistics across different coun
 - TailwindCSS for styling
 - Axios for API requests
 - Jest for testing
+
+## Preview
+
+![CovidMap](https://github.com/user-attachments/assets/a2e24353-043d-4972-9fa3-6d657321d338)
